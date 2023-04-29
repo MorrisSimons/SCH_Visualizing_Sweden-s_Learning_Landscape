@@ -1,7 +1,6 @@
 # SCH_Visualizing_Swedens_Learning_Landscape
 
 ## Notes
-- some dyslexia
 - Need to download and run to view all charts such as fig 1 etc but most of the charts can be viewed through github
 
 The dataset comes from:
